@@ -31,7 +31,7 @@ public class MenuPrincipal {//menu principal
                     break;
                 case 3:Estudiantes.Buscar_estudiantes(); //Consultar Estudiantes
                     break;
-                case 4: //Modificar Estudiantes
+                case 4: Estudiantes.Modificar_Info_estudiantes();//Modificar Estudiantes
                     break;
                 case 5: //Eliminar Estudiantes
                     break;
